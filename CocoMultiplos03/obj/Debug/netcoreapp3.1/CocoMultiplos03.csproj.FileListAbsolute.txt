@@ -1,0 +1,10 @@
+C:\Users\germa\source\repos\CocoMultiplos03\bin\Debug\netcoreapp3.1\CocoMultiplos03.exe
+C:\Users\germa\source\repos\CocoMultiplos03\bin\Debug\netcoreapp3.1\CocoMultiplos03.deps.json
+C:\Users\germa\source\repos\CocoMultiplos03\bin\Debug\netcoreapp3.1\CocoMultiplos03.runtimeconfig.json
+C:\Users\germa\source\repos\CocoMultiplos03\bin\Debug\netcoreapp3.1\CocoMultiplos03.runtimeconfig.dev.json
+C:\Users\germa\source\repos\CocoMultiplos03\bin\Debug\netcoreapp3.1\CocoMultiplos03.dll
+C:\Users\germa\source\repos\CocoMultiplos03\bin\Debug\netcoreapp3.1\CocoMultiplos03.pdb
+C:\Users\germa\source\repos\CocoMultiplos03\obj\Debug\netcoreapp3.1\CocoMultiplos03.AssemblyInfoInputs.cache
+C:\Users\germa\source\repos\CocoMultiplos03\obj\Debug\netcoreapp3.1\CocoMultiplos03.AssemblyInfo.cs
+C:\Users\germa\source\repos\CocoMultiplos03\obj\Debug\netcoreapp3.1\CocoMultiplos03.dll
+C:\Users\germa\source\repos\CocoMultiplos03\obj\Debug\netcoreapp3.1\CocoMultiplos03.pdb
